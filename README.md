@@ -10,3 +10,15 @@ I have used JDBC to work with the data.
 
 I have converted the application so it uses JPA(EclipseLink JPA) instead of JDBC to work with a database. Also enhanced the application 
 by modifying it so it uses a secure connection and only allows authorized users to view/ edit the products.
+
+Technologies used:
+
+Language: Java
+
+Framework: MVC
+
+Database: MySQL
+
+Object Relational Mapping: EclipseLink JPA
+
+Frontend: Javascript, HTML
